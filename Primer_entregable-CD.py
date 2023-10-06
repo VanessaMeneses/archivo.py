@@ -1,9 +1,9 @@
-'''# -*- coding: utf-8 -*-
+# Codelab-entregable 1- reciclado de sesion en vivo 21-sep-2023_variables_
 # Variables
 # Asignación de variables
 # para asignar un valor a una variable, solo debemos usar el operador "="
 
-nombre = "Ariel"   # 
+nombre = "Ariel"  
 edad = 23
 fuma = False
 
